@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Atualmente trabalhando em: Desenvolvimento de software, com foco em frontend e Python.<br>🤝 Procurando colaborar em: Projetos de tecnologia e inovação.<br>🧠 Precisando de ajuda com: Aprendizado de novas ferramentas tecnológicas.<br>🌱 Atualmente aprendendo: Novas metodologias e tecnologias de frontend.<br>💬 Pergunte-me sobre: Desenvolvimento de jogos, Python, e tecnologia.<br>⚡ Curiosidade: Apaixonado por videogames desde a infância e tecnologia desde jovem.
+🎯 Currently working on: Software development, focusing on frontend and Python.<br>🤝 Looking to collaborate on: Technology and innovation projects.<br>🧠 Looking for help with: Learning new technological tools.<br>🌱 Currently learning: New frontend methodologies and technologies.<br>💬 Ask me about: Game development, Python, and technology.<br>⚡ Fun fact: Passionate about video games since childhood and technology from a young age.
 
 
 ## 🌐 Socials:
